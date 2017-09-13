@@ -6,5 +6,5 @@ Assignments for the Udacity course on [Deep Learning by Google](https://www.udac
 - [x] Assignment 2
 - [x] Assignment 3
 - [x] Assignment 4
-- [ ] Assignment 5
+- [x] Assignment 5
 - [ ] Assignment 6
